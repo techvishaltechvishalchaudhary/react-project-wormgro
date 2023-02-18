@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-project-wormgro/static/css/main.c9b25aed.css",
-    "main.js": "/react-project-wormgro/static/js/main.427cc804.js",
+    "main.js": "/react-project-wormgro/static/js/main.c0bbee53.js",
     "static/js/787.e403dcb9.chunk.js": "/react-project-wormgro/static/js/787.e403dcb9.chunk.js",
     "static/media/Lato-Semibold.ttf": "/react-project-wormgro/static/media/Lato-Semibold.637ae3cbe5f4341bfb7b.ttf",
     "static/media/Lato-Heavy.ttf": "/react-project-wormgro/static/media/Lato-Heavy.cd11ad547dd81d2cb823.ttf",
@@ -27,11 +27,11 @@
     "static/media/SXC-logo-300.jpg": "/react-project-wormgro/static/media/SXC-logo-300.80f4f746c14615439c34.jpg",
     "index.html": "/react-project-wormgro/index.html",
     "main.c9b25aed.css.map": "/react-project-wormgro/static/css/main.c9b25aed.css.map",
-    "main.427cc804.js.map": "/react-project-wormgro/static/js/main.427cc804.js.map",
+    "main.c0bbee53.js.map": "/react-project-wormgro/static/js/main.c0bbee53.js.map",
     "787.e403dcb9.chunk.js.map": "/react-project-wormgro/static/js/787.e403dcb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9b25aed.css",
-    "static/js/main.427cc804.js"
+    "static/js/main.c0bbee53.js"
   ]
 }
