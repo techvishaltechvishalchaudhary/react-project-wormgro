@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-project-wormgro/static/css/main.c9b25aed.css",
+    "main.js": "/react-project-wormgro/static/js/main.427cc804.js",
+    "static/js/787.e403dcb9.chunk.js": "/react-project-wormgro/static/js/787.e403dcb9.chunk.js",
+    "static/media/Lato-Semibold.ttf": "/react-project-wormgro/static/media/Lato-Semibold.637ae3cbe5f4341bfb7b.ttf",
+    "static/media/Lato-Heavy.ttf": "/react-project-wormgro/static/media/Lato-Heavy.cd11ad547dd81d2cb823.ttf",
+    "static/media/Lato-Bold.ttf": "/react-project-wormgro/static/media/Lato-Bold.08ce961fb8a75d3079d8.ttf",
+    "static/media/Lato-Regular.ttf": "/react-project-wormgro/static/media/Lato-Regular.faacec1c82ca10ed3b76.ttf",
+    "static/media/Lato-Light.ttf": "/react-project-wormgro/static/media/Lato-Light.c49ed189c67776fcddec.ttf",
+    "static/media/Lato-Medium.ttf": "/react-project-wormgro/static/media/Lato-Medium.b56347b7f25900c4fd4c.ttf",
+    "static/media/Lato-Thin.ttf": "/react-project-wormgro/static/media/Lato-Thin.4bce7c89f76dcbd480ae.ttf",
+    "static/media/Lato-Black.ttf": "/react-project-wormgro/static/media/Lato-Black.035028690690e18b02b2.ttf",
+    "static/media/WormGro-about-banner.jpg": "/react-project-wormgro/static/media/WormGro-about-banner.d4709078ba9326c14529.jpg",
+    "static/media/WormGro-testimonials-background.jpg": "/react-project-wormgro/static/media/WormGro-testimonials-background.6b6cf627e8f7011d68db.jpg",
+    "static/media/Wormgro-contact-bg-banner.jpg": "/react-project-wormgro/static/media/Wormgro-contact-bg-banner.469c8367a77647e91ecc.jpg",
+    "static/media/WormGro-img-box-2.jpg": "/react-project-wormgro/static/media/WormGro-img-box-2.cd69d9d898dcdb8f2f4e.jpg",
+    "static/media/Wormgro-profit-planet-banner.jpg": "/react-project-wormgro/static/media/Wormgro-profit-planet-banner.dba2a06dc6ceb64971bd.jpg",
+    "static/media/WormGro-img-box-1.jpg": "/react-project-wormgro/static/media/WormGro-img-box-1.776c91694d548280ef42.jpg",
+    "static/media/WormGro-results-bg-banner.jpg": "/react-project-wormgro/static/media/WormGro-results-bg-banner.ff384ce3dfdb7073345b.jpg",
+    "static/media/WormGro-aboutus-bg-banner.jpg": "/react-project-wormgro/static/media/WormGro-aboutus-bg-banner.5afda51a5ee22db80313.jpg",
+    "static/media/wormgo-aboutbox-image.jpg": "/react-project-wormgro/static/media/wormgo-aboutbox-image.d6873da0dccb642c5e89.jpg",
+    "static/media/WormGro-order-image.jpg": "/react-project-wormgro/static/media/WormGro-order-image.5bc5337d0e7187a9ccbe.jpg",
+    "static/media/WormGro-img-box-3.jpg": "/react-project-wormgro/static/media/WormGro-img-box-3.96d464d4a71023c64234.jpg",
+    "static/media/WormGro-result-image.jpg": "/react-project-wormgro/static/media/WormGro-result-image.84535ea9442e6a64751a.jpg",
+    "static/media/kick-start-your-soil-fertility-cycle.png": "/react-project-wormgro/static/media/kick-start-your-soil-fertility-cycle.03eb3000cb092d91ce42.png",
+    "static/media/SXC-logo-300.jpg": "/react-project-wormgro/static/media/SXC-logo-300.80f4f746c14615439c34.jpg",
+    "index.html": "/react-project-wormgro/index.html",
+    "main.c9b25aed.css.map": "/react-project-wormgro/static/css/main.c9b25aed.css.map",
+    "main.427cc804.js.map": "/react-project-wormgro/static/js/main.427cc804.js.map",
+    "787.e403dcb9.chunk.js.map": "/react-project-wormgro/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9b25aed.css",
+    "static/js/main.427cc804.js"
+  ]
+}
